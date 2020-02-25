@@ -1,0 +1,27 @@
+SMART HOME CLASS PROGRESS DOCUMENT
+
+This file should be used to track the progress of the smarthome class
+
+(Functions that are completed)
+Complete Functions:
+
+
+(Functions that currently work)
+
+Active Functions: 
+	- setUpLEDs()				- Philip Works
+	- setUpLCD()				- Philip Works
+	- LEDBootBlink()			- Philip Works
+	
+(Functions that are in progress)
+
+Progress Functions:
+	- smartHomeBOOTUP()			- Philip Works
+
+(Functions that are not in progress)
+Inactive Functions:
+	- setUpBluetooth()			- Philip Works
+	
+	
+Possible Additions To Be made
+	I think that we should implement a class for our LED control and Bluetooth Control
