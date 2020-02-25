@@ -52,10 +52,10 @@ void SmartHome::LEDBootBlink()            // blinks the LEDs on Boot
   {
     digitalWrite(LED0,HIGH);              // write pin 13 HIGH
     digitalWrite(LED1,LOW);               // write pin 10 LOW
-    delay(500);                           // .5s delay
+    delay(50);                           // .05s delay
     digitalWrite(LED0,LOW);               // write pin 13 LOW
     digitalWrite(LED1,HIGH);              // write pin 10 HIGH
-    delay(500);                           // .5s delay                     
+    delay(50);                           // .05s delay                     
   }
   digitalWrite(LED0,LOW);                 // write pin 13 LOW
   digitalWrite(LED1,LOW);                 // write pin 10 LOW
