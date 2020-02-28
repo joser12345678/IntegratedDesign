@@ -8,6 +8,8 @@
 // Description: This file is the header file for the SmartHome class
 //-----------------------------------------------------------------------
 
+#pragma once
+
 /* LCD Defines */
 #define RS 12                           // register select pin
 #define EN 11                           // enable pin
